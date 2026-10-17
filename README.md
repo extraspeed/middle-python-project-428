@@ -1,5 +1,6 @@
 # Бекенд для бронирования авиабилетов (Python)
 
+[![CI](https://github.com/extraspeed/middle-python-project-428/actions/workflows/blank.yml/badge.svg?event=push)](https://github.com/extraspeed/middle-python-project-428/actions/workflows/blank.yml)
 [![hexlet-check](https://github.com/extraspeed/middle-python-project-428/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/extraspeed/middle-python-project-428/actions)
 
 Реализуйте бекенд сервиса бронирования авиабилетов: справочник городов, поиск рейсов,
